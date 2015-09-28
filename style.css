@@ -2,3 +2,25 @@ body{
   background-color: #383838;
   color: #fff;
 }
+
+
+
+.nav li{
+	display: inline;
+	font-size: 18px;
+	color: #383838;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.jumbotron{
+	background-color: #383837;
+	height: 250px;
+	position:relative;
+	
+}
+
+.jumbotron .container{
+position: relative;
+top: 100px;
+}
