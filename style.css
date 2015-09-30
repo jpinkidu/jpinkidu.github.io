@@ -10,6 +10,7 @@ body{
 	background-color: #2196f3;
 	height: 250px;
 	position:relative;
+	
 }
 
 .jumbotron .container{
@@ -19,7 +20,8 @@ top: 100px;
 
 .jumbotron h2{
 position:absolute;
-top: 150px;
+font-size: 32px;
+top: 100px;
 left: 100px;
 
 }
