@@ -19,10 +19,9 @@ top: 100px;
 }
 
 .jumbotron h2{
-position:absolute;
-font-size: 32px;
-top: 100px;
-left: 100px;
+position:center;
+font-size: 64px;
+
 
 }
 
